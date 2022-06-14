@@ -92,6 +92,9 @@
               <li class="nav-item">
                <a class="nav-link" href="../../gutyestore/views/categoria.php">Categoria</a>
               </li>
+              <li class="nav-item">
+               <a class="nav-link" href="../../gutyestore/views/usuario.php">Usuario</a>
+              </li>
          </ul>
       </div>
      </nav>
